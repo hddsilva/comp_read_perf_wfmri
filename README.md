@@ -1,1 +1,1 @@
-# comp_read_perf_wfmri
+Scripts used in comparing reading performance with fMRI task data, Fall 2018
